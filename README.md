@@ -13,3 +13,5 @@ aidesign
 [mastergo](https://mastergo.com/)
 [uizard](https://app.uizard.io/prototypes/generate)
 
+
+[ai工具大全](https://aihub.easyartx.com/site)
