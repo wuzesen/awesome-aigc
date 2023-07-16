@@ -15,3 +15,5 @@ aidesign
 
 
 [ai工具大全](https://aihub.easyartx.com/site)
+
+做一个AIGC电影公司
